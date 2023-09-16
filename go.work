@@ -1,9 +1,11 @@
 go 1.21.1
 
 use (
+	./array
 	./conversion
 	./hello-world
 	./mytime
+	./slices
 	./user-input
 	./variable
 
